@@ -1,14 +1,14 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "com.iknowblockchain/chia",
-  "title": "iKnow Blockchain — Chia",
-  "description": "Sourced Chia learning, dated ecosystem news and read-only public chain lookups.",
-  "version": "0.3.3-dev.14",
+  "name": "com.iknowblockchain/iknow-blockchain",
+  "title": "iKnow Blockchain",
+  "description": "Sourced blockchain learning, reviewed dated developments and bounded read-only public lookups for fourteen blockchains.",
+  "version": "0.5.0-rc.1",
   "websiteUrl": "https://iknowblockchain.com",
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://chia.iknowblockchain.com/mcp"
+      "url": "https://mcp.iknowblockchain.com/mcp"
     }
   ]
 }
