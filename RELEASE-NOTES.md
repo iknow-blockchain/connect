@@ -1,3 +1,7 @@
+# 2026-10-14 — setup guide retired
+
+The native Codex guide is retired: its client ID, its invitation-only notice and the Chia-only address no longer apply. The connection is open to any account; setup steps for every supported app are on https://iknowblockchain.com/connect/. server.json is unchanged and still describes 0.5.0-rc.1.
+
 # 0.5.0-rc.1 — unified fourteen-chain connection
 
 September 26, 2026: one read-only connection at `https://mcp.iknowblockchain.com/mcp` covers Chia, Bitcoin, Ethereum, Solana, Zcash, Monero, NEAR, Base, Arbitrum One, OP Mainnet, Cosmos Hub, Cardano, Avalanche and Robinhood Chain with twenty tools: education, reviewed dated developments, project directories, exact unit conversion and bounded public lookups. Native Codex production sign-in and real calls passed. Access remains invitation-only with scope `ikb:read`. Coverage limits are listed at https://iknowblockchain.com/#coverage. The earlier Chia-only endpoint remains available for existing users.
